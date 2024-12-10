@@ -72,6 +72,7 @@ body{
 }
 
 .scrap{
+    border-radius: 15px;
     margin-left: 10%;
     width: 8%;
 }
